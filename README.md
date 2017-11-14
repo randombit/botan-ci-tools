@@ -7,3 +7,5 @@ softhsm2-trusty-bin.tar.bz2 is SoftHSM v2 (https://github.com/opendnssec/SoftHSM
 built for Ubuntu 14.04
 
 ubuntu/ contains some Ubuntu Xenial packages installed on the Travis CI image.
+
+jom_1_1_2.zip is a parallel nmake replacement.
